@@ -9,5 +9,5 @@ setup(
     author_email='schoi_@korea.ac.kr',
     license='schoi',
     packages=find_packages(),
-    install_requires=['numpy', 'openpyxl==3.0.9', 'pandas', 'rdkit==2022.9.5', 'regex==2022.6.2'],
+    install_requires=['numpy', 'openpyxl==3.0.9', 'pandas', 'rdkit==2023.9.6', 'regex==2022.6.2'],
 )
